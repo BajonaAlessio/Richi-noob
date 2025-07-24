@@ -1,0 +1,13 @@
+{
+  "Id": 20,
+  "Titolo": "Loom",
+  "Anno": 2025,
+  "Autore": "Immagine Dragons",
+  "CanzoniId": [
+    3,
+    7,
+    12
+  ],
+  "Genere": "Alternative Rock",
+  "Ascoltato": true
+}

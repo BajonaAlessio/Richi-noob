@@ -1,0 +1,9 @@
+{
+  "Id": 13,
+  "NomeUtente": "Filippo",
+  "Indirizzo": {
+    "Via": "Pluton",
+    "Citta": "Space",
+    "Cap": "maron"
+  }
+}
