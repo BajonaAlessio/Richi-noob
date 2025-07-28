@@ -1,0 +1,65 @@
+curl -X POST \
+http://localhost:5270/api/albums \
+-H "Content-Type: application/json" \
+-d '{"Titolo": "Loom", "Anno": 2025, "Autore": "Immagine Dragons", 
+"CanzoniId": [3, 7, 12], 
+"Genere": "Alternative Rock", "Ascoltato": true}'
+
+
+curl -X POST \
+http://localhost:5270/api/albums \
+-H "Content-Type: application/json" \
+-d '{"Titolo": "Verita supposte", "Anno": 2003, "Autore": "Caparezza", 
+"CanzoniId": [3, 7, 12], 
+"Genere": "Rap Rock", "Ascoltato": true}'
+
+curl -X PUT \
+http://localhost:5270/api/albums/16 \
+-H "Content-Type: application/json" \
+-d '{"Titolo": "Verita supposte", "Anno": 2003, "Autore": "Caparezzaaaa", 
+"CanzoniId": [3, 7, 12], 
+"Genere": "Rap Rock", "Ascoltato": false}'
+
+
+curl -X PUT \
+http://localhost:5270/api/album/2 \
+-H "Content-Type: application/json" \
+-d '{
+"Titolo": "Le dimensioni del mio caos",
+"Anno": 2009,
+"Autore": "Caparezza",
+"CanzoniId": [3, 7, 12],
+"Genere": "Rap Rock",
+"Ascoltato": true}'
+
+curl -X DELETE \
+http://localhost:5270/api/albums/11
+
+curl -X POST \
+http://localhost:5270/api/purchases \
+-H "Content-Type: application/json" \
+-d '{"UserId": 2, "AlbumId":13,
+"Quantity":20}'
+
+curl -X PUT \
+http://localhost:5270/api/purchases/0 \
+-H "Content-Type: application/json" \
+-d '{"UserId": 1, "AlbumId":7,
+"Quantity":89}'
+
+curl -X DELETE \
+http://localhost:5270/api/purchases/3
+
+curl -X POST \
+http://localhost:5270/api/users \
+-H "Content-Type: application/json" \
+-d '{"NomeUtente": "Richi","indirizzo": {"Via": "mare","Citta": "Hell","Cap": "06660"}}'
+
+curl -X PUT \
+http://localhost:5270/api/users/9 \
+-H "Content-Type: application/json" \
+-d '{"NomeUtente": "Ma tu", "Indirizzo":{"Via":"aaaaa",
+"Citta":"NewBologna2", "Cap":"00042"}}'
+
+curl -X DELETE \
+http://localhost:5270/api/users/13

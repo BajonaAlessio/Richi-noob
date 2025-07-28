@@ -1,0 +1,4 @@
+path_Albums:Albums
+path_User:Users
+path_Purchase:Purchases
+path_Canzoni:Canzoni

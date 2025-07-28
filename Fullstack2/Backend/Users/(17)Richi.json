@@ -1,0 +1,9 @@
+{
+  "Id": 17,
+  "NomeUtente": "Richi",
+  "Indirizzo": {
+    "Via": "mare",
+    "Citta": "Hell",
+    "Cap": "067"
+  }
+}
