@@ -47,7 +47,7 @@ costruisco i builder e i service
  - JsonHelper (Gestisco serilize e deserialize dei file json)
  - LoggerHelper (creo uno storico delle azioni dentro la mia app, e scrivo un txt)
  - RaceCalculator (Calcolo il tempo dei player dentro una stessa gara e le ordino per dare una posizione)
-- 
+- Si serializzano i file json dentro i folders
 
 
 

@@ -170,18 +170,17 @@ public class RacesController : ControllerBase
                         break;
                     }
                 }
-                if (circuitoResult != null) break;
             }
         }
 
         RaceDTO dto = new RaceDTO
         {
             Id = race.Id,
-            PlayerNome = pilotaResult != null ? pilotaResult.Nome : "N/A",
-            SquadraNome = squadraResult != null ? squadraResult.Nome : "N/A",
-            MotoModello = motoResult != null ? motoResult.Modello : "N/A",
-            GaraNome = garaResult != null ? garaResult.Paese : "N/A",
-            CircuitoNome = circuitoResult != null ? circuitoResult.Nome : "N/A",
+            PlayerNome = pilotaResult != null ? pilotaResult.Nome : "Sconosciuto",
+            SquadraNome = squadraResult != null ? squadraResult.Nome : "Sconosciuto",
+            MotoModello = motoResult != null ? motoResult.Modello : "Sconosciuto",
+            GaraNome = garaResult != null ? garaResult.Paese : "Sconosciuto",
+            CircuitoNome = circuitoResult != null ? circuitoResult.Nome : "Sconosciuto",
             TempoFinale = race.TempoFinale,
             Posizione = race.Posizione
         };

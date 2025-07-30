@@ -60,11 +60,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\devops3\\Documents\\Home\\Race\\Backend\\Backend.csproj",
+      "projectUniqueName": "C:\\Users\\devops3\\Documents\\Richi-noob\\Race\\Backend\\Backend.csproj",
       "projectName": "Backend",
-      "projectPath": "C:\\Users\\devops3\\Documents\\Home\\Race\\Backend\\Backend.csproj",
+      "projectPath": "C:\\Users\\devops3\\Documents\\Richi-noob\\Race\\Backend\\Backend.csproj",
       "packagesPath": "C:\\Users\\devops3\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\devops3\\Documents\\Home\\Race\\Backend\\obj\\",
+      "outputPath": "C:\\Users\\devops3\\Documents\\Richi-noob\\Race\\Backend\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\devops3\\AppData\\Roaming\\NuGet\\NuGet.Config"
