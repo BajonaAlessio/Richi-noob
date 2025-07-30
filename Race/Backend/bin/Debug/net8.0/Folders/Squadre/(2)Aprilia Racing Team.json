@@ -1,0 +1,12 @@
+{
+  "Id": 2,
+  "Nome": "Aprilia Racing Team",
+  "Paese": "Italia",
+  "AnnoFondazione": 1985,
+  "Proprietario": "Piaggio Group",
+  "MotosId": [
+    7,
+    8,
+    9
+  ]
+}

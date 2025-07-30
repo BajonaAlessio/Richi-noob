@@ -1,0 +1,10 @@
+{
+  "Id": 4,
+  "Paese": "Stati Uniti",
+  "Wheater": "Deserto Arido",
+  "CircuitiId": [
+    10,
+    11,
+    12
+  ]
+}

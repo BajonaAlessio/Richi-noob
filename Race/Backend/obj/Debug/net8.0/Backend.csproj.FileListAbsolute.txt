@@ -4,3 +4,147 @@ D:\Documenti\Informatica\Home\Race\Backend\obj\Debug\net8.0\Backend.AssemblyInfo
 D:\Documenti\Informatica\Home\Race\Backend\obj\Debug\net8.0\Backend.AssemblyInfo.cs
 D:\Documenti\Informatica\Home\Race\Backend\obj\Debug\net8.0\Backend.csproj.CoreCompileInputs.cache
 D:\Documenti\Informatica\Home\Race\Backend\obj\Debug\net8.0\Backend.sourcelink.json
+D:\Documenti\Informatica\Home\Race\Backend\obj\Debug\net8.0\Backend.MvcApplicationPartsAssemblyInfo.cache
+D:\Documenti\Informatica\Home\Race\Backend\bin\Debug\net8.0\Backend.exe
+D:\Documenti\Informatica\Home\Race\Backend\bin\Debug\net8.0\Backend.deps.json
+D:\Documenti\Informatica\Home\Race\Backend\bin\Debug\net8.0\Backend.runtimeconfig.json
+D:\Documenti\Informatica\Home\Race\Backend\bin\Debug\net8.0\Backend.dll
+D:\Documenti\Informatica\Home\Race\Backend\bin\Debug\net8.0\Backend.pdb
+D:\Documenti\Informatica\Home\Race\Backend\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Documenti\Informatica\Home\Race\Backend\obj\Debug\net8.0\staticwebassets.build.json
+D:\Documenti\Informatica\Home\Race\Backend\obj\Debug\net8.0\staticwebassets.development.json
+D:\Documenti\Informatica\Home\Race\Backend\obj\Debug\net8.0\staticwebassets\msbuild.Backend.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Documenti\Informatica\Home\Race\Backend\obj\Debug\net8.0\staticwebassets\msbuild.build.Backend.props
+D:\Documenti\Informatica\Home\Race\Backend\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Backend.props
+D:\Documenti\Informatica\Home\Race\Backend\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Backend.props
+D:\Documenti\Informatica\Home\Race\Backend\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Documenti\Informatica\Home\Race\Backend\obj\Debug\net8.0\scopedcss\bundle\Backend.styles.css
+D:\Documenti\Informatica\Home\Race\Backend\obj\Debug\net8.0\Backend.csproj.Up2Date
+D:\Documenti\Informatica\Home\Race\Backend\obj\Debug\net8.0\Backend.dll
+D:\Documenti\Informatica\Home\Race\Backend\obj\Debug\net8.0\refint\Backend.dll
+D:\Documenti\Informatica\Home\Race\Backend\obj\Debug\net8.0\Backend.pdb
+D:\Documenti\Informatica\Home\Race\Backend\obj\Debug\net8.0\Backend.genruntimeconfig.cache
+D:\Documenti\Informatica\Home\Race\Backend\obj\Debug\net8.0\ref\Backend.dll
+D:\Documenti\Informatica\Home\Race\Backend\bin\Debug\net8.0\Folders\Motos\(1)Ducati.json
+D:\Documenti\Informatica\Home\Race\Backend\bin\Debug\net8.0\Folders\Motos\(10)Honda.json
+D:\Documenti\Informatica\Home\Race\Backend\bin\Debug\net8.0\Folders\Motos\(11)Honda.json
+D:\Documenti\Informatica\Home\Race\Backend\bin\Debug\net8.0\Folders\Motos\(12)Honda.json
+D:\Documenti\Informatica\Home\Race\Backend\bin\Debug\net8.0\Folders\Motos\(13)KTM.json
+D:\Documenti\Informatica\Home\Race\Backend\bin\Debug\net8.0\Folders\Motos\(14)KTM.json
+D:\Documenti\Informatica\Home\Race\Backend\bin\Debug\net8.0\Folders\Motos\(15)KTM.json
+D:\Documenti\Informatica\Home\Race\Backend\bin\Debug\net8.0\Folders\Motos\(2)Ducati.json
+D:\Documenti\Informatica\Home\Race\Backend\bin\Debug\net8.0\Folders\Motos\(3)Ducati.json
+D:\Documenti\Informatica\Home\Race\Backend\bin\Debug\net8.0\Folders\Motos\(4)Yamaha.json
+D:\Documenti\Informatica\Home\Race\Backend\bin\Debug\net8.0\Folders\Motos\(5)Yamaha.json
+D:\Documenti\Informatica\Home\Race\Backend\bin\Debug\net8.0\Folders\Motos\(6)Yamaha.json
+D:\Documenti\Informatica\Home\Race\Backend\bin\Debug\net8.0\Folders\Motos\(7)Aprilia.json
+D:\Documenti\Informatica\Home\Race\Backend\bin\Debug\net8.0\Folders\Motos\(8)Aprilia.json
+D:\Documenti\Informatica\Home\Race\Backend\bin\Debug\net8.0\Folders\Motos\(9)Aprilia.json
+D:\Documenti\Informatica\Home\Race\Backend\bin\Debug\net8.0\Folders\Squadre\(1)Ducati Lenovo Team.json
+D:\Documenti\Informatica\Home\Race\Backend\bin\Debug\net8.0\Folders\Squadre\(2)Aprilia Racing Team.json
+D:\Documenti\Informatica\Home\Race\Backend\bin\Debug\net8.0\Folders\Squadre\(3)Monster Energy Yamaha.json
+D:\Documenti\Informatica\Home\Race\Backend\bin\Debug\net8.0\Folders\Squadre\(4)Red Bull KTM Factory Racing.json
+D:\Documenti\Informatica\Home\Race\Backend\bin\Debug\net8.0\Folders\Squadre\(5)Honda HRC Castrol.json
+D:\Documenti\Informatica\Home\Race\Backend\bin\Debug\net8.0\Folders\Players\(1)1.json
+D:\Documenti\Informatica\Home\Race\Backend\bin\Debug\net8.0\Folders\Circuiti\(1)Autodromo Internazionale del Mugello.json
+D:\Documenti\Informatica\Home\Race\Backend\bin\Debug\net8.0\Folders\Circuiti\(10)Laguna Seca.json
+D:\Documenti\Informatica\Home\Race\Backend\bin\Debug\net8.0\Folders\Circuiti\(11)Circuit of the Americas (COTA).json
+D:\Documenti\Informatica\Home\Race\Backend\bin\Debug\net8.0\Folders\Circuiti\(12)Indianapolis Motor Speedway (MotoGP).json
+D:\Documenti\Informatica\Home\Race\Backend\bin\Debug\net8.0\Folders\Circuiti\(13)Twin Ring Motegi.json
+D:\Documenti\Informatica\Home\Race\Backend\bin\Debug\net8.0\Folders\Circuiti\(14)Suzuka Circuit.json
+D:\Documenti\Informatica\Home\Race\Backend\bin\Debug\net8.0\Folders\Circuiti\(15)Sugo International Racing Course.json
+D:\Documenti\Informatica\Home\Race\Backend\bin\Debug\net8.0\Folders\Circuiti\(2)Misano World Circuit Marco Simoncelli.json
+D:\Documenti\Informatica\Home\Race\Backend\bin\Debug\net8.0\Folders\Circuiti\(3)Autodromo Enzo e Dino Ferrari (Imola).json
+D:\Documenti\Informatica\Home\Race\Backend\bin\Debug\net8.0\Folders\Circuiti\(4)Circuito de Jerez.json
+D:\Documenti\Informatica\Home\Race\Backend\bin\Debug\net8.0\Folders\Circuiti\(5)Circuit de Barcelona-Catalunya.json
+D:\Documenti\Informatica\Home\Race\Backend\bin\Debug\net8.0\Folders\Circuiti\(6)MotorLand Aragon.json
+D:\Documenti\Informatica\Home\Race\Backend\bin\Debug\net8.0\Folders\Circuiti\(7)Silverstone Circuit.json
+D:\Documenti\Informatica\Home\Race\Backend\bin\Debug\net8.0\Folders\Circuiti\(8)Donington Park.json
+D:\Documenti\Informatica\Home\Race\Backend\bin\Debug\net8.0\Folders\Circuiti\(9)Brands Hatch.json
+D:\Documenti\Informatica\Home\Race\Backend\bin\Debug\net8.0\Folders\Gare\(1)Italia.json
+D:\Documenti\Informatica\Home\Race\Backend\bin\Debug\net8.0\Folders\Gare\(2)Spagna.json
+D:\Documenti\Informatica\Home\Race\Backend\bin\Debug\net8.0\Folders\Gare\(3)Regno Unito.json
+D:\Documenti\Informatica\Home\Race\Backend\bin\Debug\net8.0\Folders\Gare\(4)Stati Uniti.json
+D:\Documenti\Informatica\Home\Race\Backend\bin\Debug\net8.0\Folders\Gare\(5)Giappone.json
+D:\Documenti\Informatica\Home\Race\Backend\bin\Debug\net8.0\Folders\Piloti\(1)Richi.json
+D:\Documenti\Informatica\Home\Race\Backend\bin\Debug\net8.0\Folders\Piloti\(2)Valentino Rossi.json
+D:\Documenti\Informatica\Home\Race\Backend\bin\Debug\net8.0\Folders\Piloti\(3)Marc Marquez.json
+D:\Documenti\Informatica\Home\Race\Backend\bin\Debug\net8.0\Folders\Players\(2)2.json
+D:\Documenti\Informatica\Home\Race\Backend\bin\Debug\net8.0\Folders\Players\(3)3.json
+D:\Documenti\Informatica\Home\Race\Backend\bin\Debug\net8.0\Folders\Races\(1)1.json
+D:\Documenti\Informatica\Home\Race\Backend\bin\Debug\net8.0\Folders\Races\(2)1.json
+D:\Documenti\Informatica\Home\Race\Backend\bin\Debug\net8.0\Folders\Races\(3)2.json
+D:\Documenti\Informatica\Home\Race\Backend\bin\Debug\net8.0\Folders\Races\(4)3.json
+C:\Users\devops3\Documents\Home\Race\Backend\bin\Debug\net8.0\Folders\Circuiti\(1)Autodromo Internazionale del Mugello.json
+C:\Users\devops3\Documents\Home\Race\Backend\bin\Debug\net8.0\Folders\Circuiti\(10)Laguna Seca.json
+C:\Users\devops3\Documents\Home\Race\Backend\bin\Debug\net8.0\Folders\Circuiti\(11)Circuit of the Americas (COTA).json
+C:\Users\devops3\Documents\Home\Race\Backend\bin\Debug\net8.0\Folders\Circuiti\(12)Indianapolis Motor Speedway (MotoGP).json
+C:\Users\devops3\Documents\Home\Race\Backend\bin\Debug\net8.0\Folders\Circuiti\(13)Twin Ring Motegi.json
+C:\Users\devops3\Documents\Home\Race\Backend\bin\Debug\net8.0\Folders\Circuiti\(14)Suzuka Circuit.json
+C:\Users\devops3\Documents\Home\Race\Backend\bin\Debug\net8.0\Folders\Circuiti\(15)Sugo International Racing Course.json
+C:\Users\devops3\Documents\Home\Race\Backend\bin\Debug\net8.0\Folders\Circuiti\(2)Misano World Circuit Marco Simoncelli.json
+C:\Users\devops3\Documents\Home\Race\Backend\bin\Debug\net8.0\Folders\Circuiti\(3)Autodromo Enzo e Dino Ferrari (Imola).json
+C:\Users\devops3\Documents\Home\Race\Backend\bin\Debug\net8.0\Folders\Circuiti\(4)Circuito de Jerez.json
+C:\Users\devops3\Documents\Home\Race\Backend\bin\Debug\net8.0\Folders\Circuiti\(5)Circuit de Barcelona-Catalunya.json
+C:\Users\devops3\Documents\Home\Race\Backend\bin\Debug\net8.0\Folders\Circuiti\(6)MotorLand Aragon.json
+C:\Users\devops3\Documents\Home\Race\Backend\bin\Debug\net8.0\Folders\Circuiti\(7)Silverstone Circuit.json
+C:\Users\devops3\Documents\Home\Race\Backend\bin\Debug\net8.0\Folders\Circuiti\(8)Donington Park.json
+C:\Users\devops3\Documents\Home\Race\Backend\bin\Debug\net8.0\Folders\Circuiti\(9)Brands Hatch.json
+C:\Users\devops3\Documents\Home\Race\Backend\bin\Debug\net8.0\Folders\Gare\(1)Italia.json
+C:\Users\devops3\Documents\Home\Race\Backend\bin\Debug\net8.0\Folders\Gare\(2)Spagna.json
+C:\Users\devops3\Documents\Home\Race\Backend\bin\Debug\net8.0\Folders\Gare\(3)Regno Unito.json
+C:\Users\devops3\Documents\Home\Race\Backend\bin\Debug\net8.0\Folders\Gare\(4)Stati Uniti.json
+C:\Users\devops3\Documents\Home\Race\Backend\bin\Debug\net8.0\Folders\Gare\(5)Giappone.json
+C:\Users\devops3\Documents\Home\Race\Backend\bin\Debug\net8.0\Folders\Motos\(1)Ducati.json
+C:\Users\devops3\Documents\Home\Race\Backend\bin\Debug\net8.0\Folders\Motos\(10)Honda.json
+C:\Users\devops3\Documents\Home\Race\Backend\bin\Debug\net8.0\Folders\Motos\(11)Honda.json
+C:\Users\devops3\Documents\Home\Race\Backend\bin\Debug\net8.0\Folders\Motos\(12)Honda.json
+C:\Users\devops3\Documents\Home\Race\Backend\bin\Debug\net8.0\Folders\Motos\(13)KTM.json
+C:\Users\devops3\Documents\Home\Race\Backend\bin\Debug\net8.0\Folders\Motos\(14)KTM.json
+C:\Users\devops3\Documents\Home\Race\Backend\bin\Debug\net8.0\Folders\Motos\(15)KTM.json
+C:\Users\devops3\Documents\Home\Race\Backend\bin\Debug\net8.0\Folders\Motos\(2)Ducati.json
+C:\Users\devops3\Documents\Home\Race\Backend\bin\Debug\net8.0\Folders\Motos\(3)Ducati.json
+C:\Users\devops3\Documents\Home\Race\Backend\bin\Debug\net8.0\Folders\Motos\(4)Yamaha.json
+C:\Users\devops3\Documents\Home\Race\Backend\bin\Debug\net8.0\Folders\Motos\(5)Yamaha.json
+C:\Users\devops3\Documents\Home\Race\Backend\bin\Debug\net8.0\Folders\Motos\(6)Yamaha.json
+C:\Users\devops3\Documents\Home\Race\Backend\bin\Debug\net8.0\Folders\Motos\(7)Aprilia.json
+C:\Users\devops3\Documents\Home\Race\Backend\bin\Debug\net8.0\Folders\Motos\(8)Aprilia.json
+C:\Users\devops3\Documents\Home\Race\Backend\bin\Debug\net8.0\Folders\Motos\(9)Aprilia.json
+C:\Users\devops3\Documents\Home\Race\Backend\bin\Debug\net8.0\Folders\Piloti\(1)Richi.json
+C:\Users\devops3\Documents\Home\Race\Backend\bin\Debug\net8.0\Folders\Piloti\(2)Valentino Rossi.json
+C:\Users\devops3\Documents\Home\Race\Backend\bin\Debug\net8.0\Folders\Piloti\(3)Marc Marquez.json
+C:\Users\devops3\Documents\Home\Race\Backend\bin\Debug\net8.0\Folders\Players\(1)1.json
+C:\Users\devops3\Documents\Home\Race\Backend\bin\Debug\net8.0\Folders\Players\(2)2.json
+C:\Users\devops3\Documents\Home\Race\Backend\bin\Debug\net8.0\Folders\Players\(3)3.json
+C:\Users\devops3\Documents\Home\Race\Backend\bin\Debug\net8.0\Folders\Squadre\(1)Ducati Lenovo Team.json
+C:\Users\devops3\Documents\Home\Race\Backend\bin\Debug\net8.0\Folders\Squadre\(2)Aprilia Racing Team.json
+C:\Users\devops3\Documents\Home\Race\Backend\bin\Debug\net8.0\Folders\Squadre\(3)Monster Energy Yamaha.json
+C:\Users\devops3\Documents\Home\Race\Backend\bin\Debug\net8.0\Folders\Squadre\(4)Red Bull KTM Factory Racing.json
+C:\Users\devops3\Documents\Home\Race\Backend\bin\Debug\net8.0\Folders\Squadre\(5)Honda HRC Castrol.json
+C:\Users\devops3\Documents\Home\Race\Backend\bin\Debug\net8.0\Backend.exe
+C:\Users\devops3\Documents\Home\Race\Backend\bin\Debug\net8.0\Backend.deps.json
+C:\Users\devops3\Documents\Home\Race\Backend\bin\Debug\net8.0\Backend.runtimeconfig.json
+C:\Users\devops3\Documents\Home\Race\Backend\bin\Debug\net8.0\Backend.dll
+C:\Users\devops3\Documents\Home\Race\Backend\bin\Debug\net8.0\Backend.pdb
+C:\Users\devops3\Documents\Home\Race\Backend\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\devops3\Documents\Home\Race\Backend\obj\Debug\net8.0\Backend.csproj.AssemblyReference.cache
+C:\Users\devops3\Documents\Home\Race\Backend\obj\Debug\net8.0\Backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devops3\Documents\Home\Race\Backend\obj\Debug\net8.0\Backend.AssemblyInfoInputs.cache
+C:\Users\devops3\Documents\Home\Race\Backend\obj\Debug\net8.0\Backend.AssemblyInfo.cs
+C:\Users\devops3\Documents\Home\Race\Backend\obj\Debug\net8.0\Backend.csproj.CoreCompileInputs.cache
+C:\Users\devops3\Documents\Home\Race\Backend\obj\Debug\net8.0\Backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\devops3\Documents\Home\Race\Backend\obj\Debug\net8.0\Backend.sourcelink.json
+C:\Users\devops3\Documents\Home\Race\Backend\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\devops3\Documents\Home\Race\Backend\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\devops3\Documents\Home\Race\Backend\obj\Debug\net8.0\staticwebassets\msbuild.Backend.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\devops3\Documents\Home\Race\Backend\obj\Debug\net8.0\staticwebassets\msbuild.build.Backend.props
+C:\Users\devops3\Documents\Home\Race\Backend\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Backend.props
+C:\Users\devops3\Documents\Home\Race\Backend\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Backend.props
+C:\Users\devops3\Documents\Home\Race\Backend\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\devops3\Documents\Home\Race\Backend\obj\Debug\net8.0\scopedcss\bundle\Backend.styles.css
+C:\Users\devops3\Documents\Home\Race\Backend\obj\Debug\net8.0\Backend.csproj.Up2Date
+C:\Users\devops3\Documents\Home\Race\Backend\obj\Debug\net8.0\Backend.dll
+C:\Users\devops3\Documents\Home\Race\Backend\obj\Debug\net8.0\refint\Backend.dll
+C:\Users\devops3\Documents\Home\Race\Backend\obj\Debug\net8.0\Backend.pdb
+C:\Users\devops3\Documents\Home\Race\Backend\obj\Debug\net8.0\Backend.genruntimeconfig.cache
+C:\Users\devops3\Documents\Home\Race\Backend\obj\Debug\net8.0\ref\Backend.dll

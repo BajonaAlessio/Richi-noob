@@ -6,12 +6,15 @@ using Backend.Services;
 var builder = WebApplication.CreateBuilder(args); 
 
 builder.Services.AddControllers();
-/*
-builder.Services.AddSingleton<AlbumService>();
-builder.Services.AddSingleton<UserService>();
-builder.Services.AddSingleton<PurchaseService>();
-builder.Services.AddSingleton<CanzoneService>();
-*/
+
+builder.Services.AddSingleton<PilotaService>();
+builder.Services.AddSingleton<MotoService>();
+builder.Services.AddSingleton<SquadraService>();
+builder.Services.AddSingleton<PlayerService>();
+builder.Services.AddSingleton<GaraService>();
+builder.Services.AddSingleton<CircuitoService>();
+builder.Services.AddSingleton<RaceService>();
+
 
 builder.Services.AddCors(options =>
 {

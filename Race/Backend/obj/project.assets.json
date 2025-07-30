@@ -55,19 +55,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\konte\\.nuget\\packages\\": {}
+    "C:\\Users\\devops3\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Documenti\\Informatica\\Home\\Race\\Backend\\Backend.csproj",
+      "projectUniqueName": "C:\\Users\\devops3\\Documents\\Home\\Race\\Backend\\Backend.csproj",
       "projectName": "Backend",
-      "projectPath": "D:\\Documenti\\Informatica\\Home\\Race\\Backend\\Backend.csproj",
-      "packagesPath": "C:\\Users\\konte\\.nuget\\packages\\",
-      "outputPath": "D:\\Documenti\\Informatica\\Home\\Race\\Backend\\obj\\",
+      "projectPath": "C:\\Users\\devops3\\Documents\\Home\\Race\\Backend\\Backend.csproj",
+      "packagesPath": "C:\\Users\\devops3\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\devops3\\Documents\\Home\\Race\\Backend\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\konte\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\devops3\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -113,6 +113,9 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }

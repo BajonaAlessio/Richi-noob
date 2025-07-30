@@ -1,0 +1,10 @@
+{
+  "Id": 2,
+  "Marca": "Ducati",
+  "Modello": "Monster 1200",
+  "Potenza": 147,
+  "Grip": 82,
+  "Inclinazione": 85,
+  "VelocitaMassima": 255,
+  "Accelerazione": 80
+}

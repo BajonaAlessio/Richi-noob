@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "n8oCbn5nvV4=",
+  "dgSpecHash": "QM73ETtZCFc=",
   "success": true,
-  "projectFilePath": "D:\\Documenti\\Informatica\\Home\\Race\\Backend\\Backend.csproj",
+  "projectFilePath": "C:\\Users\\devops3\\Documents\\Home\\Race\\Backend\\Backend.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\konte\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+    "C:\\Users\\devops3\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],
   "logs": []
 }

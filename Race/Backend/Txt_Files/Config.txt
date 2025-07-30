@@ -1,0 +1,14 @@
+Percorso Json dei Piloti:
+Folders/Piloti
+Percorso Json delle Moto:
+Folders/Motos
+Percorso Json delle Squadre:
+Folders/Squadre
+Percorso Json delle Players:
+Folders/Players
+Percorso Json delle Gare:
+Folders/Gare
+Percorso Json delle Circuiti:
+Folders/Circuiti
+Percorso Json delle Circuiti:
+Folders/Races

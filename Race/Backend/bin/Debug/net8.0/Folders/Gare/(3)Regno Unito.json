@@ -1,0 +1,10 @@
+{
+  "Id": 3,
+  "Paese": "Regno Unito",
+  "Wheater": "Pioggia e Tuoni",
+  "CircuitiId": [
+    7,
+    8,
+    9
+  ]
+}

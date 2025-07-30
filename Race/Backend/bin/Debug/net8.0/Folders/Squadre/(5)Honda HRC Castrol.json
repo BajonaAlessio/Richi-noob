@@ -1,0 +1,12 @@
+{
+  "Id": 5,
+  "Nome": "Honda HRC Castrol",
+  "Paese": "Giappone",
+  "AnnoFondazione": 1982,
+  "Proprietario": "Honda Motor Co. Ltd.",
+  "MotosId": [
+    10,
+    11,
+    12
+  ]
+}

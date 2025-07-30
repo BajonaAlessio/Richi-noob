@@ -1,0 +1,168 @@
+Curl Piloti
+
+curl -X POST \
+http://localhost:5000/api/piloti \
+-H "Content-Type: application/json" \
+-d '{
+"Nome": "Marc Marquez",
+"Nazionalita": "Satan Spanish",
+"Eta": 31, 
+"Altezza": 1.72, 
+"Peso": "75",
+"SquadraId": 5}'
+
+
+curl -X PUT \
+http://localhost:500/api/piloti/1 \
+-H "Content-Type: application/json" \
+-d '{
+"Nome": "Richi",
+"Nazionalita": "Poor Peruvian",
+"Eta": 30, 
+"Altezza": 1.72, 
+"Peso": "90.5",
+"SquadraId": 1}'
+
+
+curl -X DELETE \
+http://localhost:5000/api/piloti/1
+
+
+Curl Motos:
+
+
+curl -X POST \
+http://localhost:5000/api/motos \
+-H "Content-Type: application/json" \
+-d '{
+"Marca": "KTM",
+"Modello": "890 Duke R",
+"Potenza": 121, 
+"Grip": 83, 
+"Inclinazione": 85,
+"VelocitaMassima": 240,
+"Accelerazione": 84}'
+
+
+curl -X PUT \
+http://localhost:5000/api/motos/0 \
+-H "Content-Type: application/json" \
+-d '{"UserId": 1, "AlbumId":7,
+"Quantity":89}'
+
+
+curl -X DELETE \
+http://localhost:5000/api/motos/3
+
+
+Curl Squadre:
+
+curl -X POST \
+http://localhost:5000/api/squadre \
+-H "Content-Type: application/json" \
+-d '{
+"Nome": "Honda HRC Castrol",
+"Paese": "Giappone",
+"AnnoFondazione": 1982,
+"Proprietario": "Honda Motor Co. Ltd.",
+"MotosId": [10,11,12]
+}'
+
+
+curl -X PUT \
+http://localhost:5000/api/squadre/16 \
+-H "Content-Type: application/json" \
+-d '{"NomeUtente": "aaaa", "Indirizzo":{"Via":"aaaa",
+"Citta":"NewBologna2", "Cap":"11142"}}'
+
+
+curl -X DELETE \
+http://localhost:5000/api/squadre/16
+
+
+Curl Players:
+
+curl -X POST \
+http://localhost:5000/api/players \
+-H "Content-Type: application/json" \
+-d '{
+"PilotaId": 3,
+"MotoId":10
+}'
+
+curl -X PUT \
+http://localhost:5000/api/players/1 \
+-H "Content-Type: application/json" \
+-d '{"Nome": "Highway to hell", "Durata":"2:52"}'
+
+
+curl -X DELETE \
+http://localhost:5270/api/players/1
+
+
+Curl Circuiti:
+
+curl -X POST \
+http://localhost:5000/api/circuiti \
+-H "Content-Type: application/json" \
+-d '{
+"Nome": "Sugo International Racing Course",
+"Localita": "Murata, Miyagi",
+"Lunghezza": 3.737,
+"Giri": 26,
+"Curve": 12
+}'
+
+
+curl -X PUT \
+http://localhost:5000/api/circuiti/1 \
+-H "Content-Type: application/json" \
+-d '{"NomeUtente": "aaaa", "Indirizzo":{"Via":"aaaa",
+"Citta":"NewBologna2", "Cap":"11142"}}'
+
+
+curl -X DELETE \
+http://localhost:5000/api/circuiti/1
+
+
+Curl Gare:
+
+curl -X POST \
+http://localhost:5000/api/gare \
+-H "Content-Type: application/json" \
+-d '{
+"Paese": "Giappone",
+"Wheater":"Soleggiato",
+"CircuitiId": [13,14,15]
+}'
+
+curl -X PUT \
+http://localhost:5000/api/gare/1 \
+-H "Content-Type: application/json" \
+-d '{"Nome": "Highway to hell", "Durata":"2:52"}'
+
+
+curl -X DELETE \
+http://localhost:5000/api/gare/1
+
+
+
+Curl Race:
+
+curl -X POST \
+http://localhost:5000/api/races \
+-H "Content-Type: application/json" \
+-d '[
+  {
+    "PlayerId": 1,
+    "GaraId": 1
+  },
+  {
+    "PlayerId": 2,
+    "GaraId": 1
+  },
+  {
+    "PlayerId": 3,
+    "GaraId": 1
+  }
+]'

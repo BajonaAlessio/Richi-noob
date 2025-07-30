@@ -1,0 +1,10 @@
+{
+  "Id": 2,
+  "Paese": "Spagna",
+  "Wheater": "Nuvoloso",
+  "CircuitiId": [
+    4,
+    5,
+    6
+  ]
+}

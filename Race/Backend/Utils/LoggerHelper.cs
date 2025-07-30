@@ -8,7 +8,7 @@ namespace Backend.Utils
         {
             string logLine = $"[{DateTime.Now:yyyy-MM-dd HH:mm:ss}] {message}";
             Console.WriteLine(logLine);
-            File.AppendAllText("Folders/log.txt", logLine + Environment.NewLine);
+            File.AppendAllText("Txt_Files/Log.txt", logLine + Environment.NewLine);
         } 
     }
 }

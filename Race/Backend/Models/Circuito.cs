@@ -1,3 +1,4 @@
+using Backend.Utils;
 namespace Backend.Models
 {
     public class Circuito : IIdentifiable
@@ -5,6 +6,9 @@ namespace Backend.Models
         public int Id { get; set; }
         public string Nome { get; set; }
         public string Localita { get; set; }
-        public int Lunghezza { get; set; }
+        public double Lunghezza { get; set; }
+        public int Giri { get; set; }
+        public int Curve { get; set; }
+
     }
 }

@@ -1,0 +1,12 @@
+{
+  "Id": 1,
+  "Nome": "Ducati Lenovo Team",
+  "Paese": "Italia",
+  "AnnoFondazione": 1999,
+  "Proprietario": "Ducati Motor Holding S.p.A. (Grupo Audi/Volkswagen)",
+  "MotosId": [
+    1,
+    2,
+    3
+  ]
+}

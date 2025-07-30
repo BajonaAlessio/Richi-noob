@@ -1,0 +1,63 @@
+[2025-07-30 01:10:53] Aggiunto moto: 1(Ducati)
+[2025-07-30 01:27:07] Aggiunto moto: 1(Ducati)
+[2025-07-30 01:29:42] Aggiunto moto: 2(Ducati)
+[2025-07-30 01:30:28] Aggiunto moto: 3(Ducati)
+[2025-07-30 01:33:41] Aggiunto moto: 4(Yamaha)
+[2025-07-30 01:34:23] Aggiunto moto: 5(Yamaha)
+[2025-07-30 01:34:56] Aggiunto moto: 6(Yamaha)
+[2025-07-30 01:36:38] Aggiunto moto: 7(Aprilia)
+[2025-07-30 01:37:21] Aggiunto moto: 8(Aprilia)
+[2025-07-30 01:38:00] Aggiunto moto: 9(Aprilia)
+[2025-07-30 01:39:14] Aggiunto moto: 10(Honda)
+[2025-07-30 01:39:55] Aggiunto moto: 11(Honda)
+[2025-07-30 01:40:27] Aggiunto moto: 12(Honda)
+[2025-07-30 01:41:30] Aggiunto moto: 13(KTM)
+[2025-07-30 01:42:06] Aggiunto moto: 14(KTM)
+[2025-07-30 01:42:41] Aggiunto moto: 15(KTM)
+[2025-07-30 01:48:54] Aggiunto squadra: 1(Ducati Lenovo Team)
+[2025-07-30 01:52:17] Aggiunto squadra: 2(Aprilia Racing Team)
+[2025-07-30 01:53:15] Aggiunto squadra: 3(Monster Energy Yamaha)
+[2025-07-30 01:54:29] Aggiunto squadra: 4(Red Bull KTM Factory Racing)
+[2025-07-30 01:55:26] Aggiunto squadra: 5(Honda HRC Castrol)
+[2025-07-30 01:56:04] Aggiunto pilota: 1(Richi)
+[2025-07-30 02:13:01] Cancellato pilota: 1(Richi)
+[2025-07-30 02:14:29] Aggiunto pilota: 1(Richi)
+[2025-07-30 02:15:07] Aggiunto pilota: 2(Richi)
+[2025-07-30 02:24:35] Aggiunto player: 1
+[2025-07-30 02:32:04] Aggiunto circuito: 1(Autodromo Internazionale del Mugello)
+[2025-07-30 02:33:06] Aggiunto circuito: 2(Misano World Circuit Marco Simoncelli)
+[2025-07-30 02:34:12] Aggiunto circuito: 3(Autodromo Enzo e Dino Ferrari (Imola))
+[2025-07-30 02:37:19] Aggiunto circuito: 4(Circuito de Jerez)
+[2025-07-30 02:38:17] Aggiunto circuito: 5(Circuit de Barcelona-Catalunya)
+[2025-07-30 02:38:50] Aggiunto circuito: 6(MotorLand Aragon)
+[2025-07-30 02:41:29] Aggiunto circuito: 7(Silverstone Circuit)
+[2025-07-30 02:41:52] Aggiunto circuito: 8(Donington Park)
+[2025-07-30 02:42:11] Aggiunto circuito: 9(Brands Hatch)
+[2025-07-30 02:42:29] Aggiunto circuito: 10(Laguna Seca)
+[2025-07-30 02:42:48] Aggiunto circuito: 11(Circuit of the Americas (COTA))
+[2025-07-30 02:43:06] Aggiunto circuito: 12(Indianapolis Motor Speedway (MotoGP))
+[2025-07-30 02:43:25] Aggiunto circuito: 13(Twin Ring Motegi)
+[2025-07-30 02:43:42] Aggiunto circuito: 14(Suzuka Circuit)
+[2025-07-30 02:43:59] Aggiunto circuito: 15(Sugo International Racing Course)
+[2025-07-30 02:47:29] Aggiunto gara: 1(Italia)
+[2025-07-30 02:48:44] Aggiunto gara: 2(Spagna)
+[2025-07-30 02:49:14] Aggiunto gara: 3(Regno Unito)
+[2025-07-30 02:50:01] Aggiunto gara: 4(Stati Uniti)
+[2025-07-30 02:50:30] Aggiunto gara: 5(Giappone)
+[2025-07-30 13:18:48] Aggiunto pilota: 2(Valentino Rossi)
+[2025-07-30 13:19:30] Aggiunto pilota: 3(Marc Marquez)
+[2025-07-30 13:27:41] Aggiunto race: 1
+[2025-07-30 13:29:35] Aggiunto player: 2
+[2025-07-30 13:29:54] Aggiunto player: 3
+[2025-07-30 13:30:14] Aggiunto race: 2
+[2025-07-30 13:30:14] Aggiunto race: 3
+[2025-07-30 13:30:14] Aggiunto race: 4
+[2025-07-30 13:30:14] Aggiornato race: 4
+[2025-07-30 13:30:14] Aggiornato race: 3
+[2025-07-30 13:30:14] Aggiornato race: 2
+[2025-07-30 14:48:35] Aggiunto race: 1
+[2025-07-30 14:48:35] Aggiunto race: 2
+[2025-07-30 14:48:35] Aggiunto race: 3
+[2025-07-30 14:48:35] Aggiornato race: 2
+[2025-07-30 14:48:35] Aggiornato race: 1
+[2025-07-30 14:48:35] Aggiornato race: 3

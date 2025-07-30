@@ -1,0 +1,12 @@
+{
+  "Id": 4,
+  "Nome": "Red Bull KTM Factory Racing",
+  "Paese": "Austria",
+  "AnnoFondazione": 2017,
+  "Proprietario": "KTM AG (Pierer Mobility AG)",
+  "MotosId": [
+    13,
+    14,
+    15
+  ]
+}

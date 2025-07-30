@@ -30,25 +30,25 @@ namespace Backend.Utils
             return result;
         }
 
-        public static void SaveList<T>(string filepath, T entity)
+        public static void SaveList<T>(string folderPath, T entity)
         {
+        if (!Directory.Exists(folderPath))
+        Directory.CreateDirectory(folderPath); // <- Ahora crea la carpeta si no existe
 
-            if (!Directory.Exists(filepath))
-                throw new DirectoryNotFoundException($"Cartella {filepath} non trovata");
-        
-            string fileContent = JsonSerializer.Serialize(entity, options);
-            File.WriteAllText(WritePath<T>(filepath, entity), fileContent);
-
+        string fileContent = JsonSerializer.Serialize(entity, options);
+        File.WriteAllText(WritePath<T>(folderPath, entity), fileContent);
         }
 
-        public static string WritePath<T>(string filePath,T entity)
+        public static string WritePath<T>(string folderPath, T entity)
         {
-            var properties = typeof(T).GetProperties();
-            string idFile = properties[0].GetValue(entity).ToString();
-            string nomeFile = properties[1].GetValue(entity).ToString();
-            string pathJson = $@"Folders/{filePath}/({idFile}){nomeFile}.json";
-        
-            return pathJson;
+        var properties = typeof(T).GetProperties();
+        string idFile = properties[0].GetValue(entity).ToString();
+        string nomeFile = properties[1].GetValue(entity)?.ToString() ?? "Entity";
+
+        // 🔥 Usa directamente la ruta que viene en Config.txt sin anteponer "Folders/"
+        string pathJson = Path.Combine(folderPath, $"({idFile}){nomeFile}.json");
+
+        return pathJson;
         }
     }
 }

@@ -1,0 +1,10 @@
+{
+  "Id": 1,
+  "Marca": "Ducati",
+  "Modello": "Panigale V4",
+  "Potenza": 212,
+  "Grip": 88,
+  "Inclinazione": 92,
+  "VelocitaMassima": 305,
+  "Accelerazione": 93
+}

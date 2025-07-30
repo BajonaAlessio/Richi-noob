@@ -1,0 +1,12 @@
+{
+  "Id": 3,
+  "Nome": "Monster Energy Yamaha",
+  "Paese": "Giappone",
+  "AnnoFondazione": 1999,
+  "Proprietario": "Yamaha Motor Company",
+  "MotosId": [
+    4,
+    5,
+    6
+  ]
+}
